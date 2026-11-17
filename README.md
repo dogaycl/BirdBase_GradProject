@@ -16,7 +16,7 @@ BirdBase is an advanced, end-to-end avian species detection and consultation pla
 
 ---
 
-## Interface Previews
+## Interface Preview
 
 <div align="center">
   <img src="Assets/App1.png" alt="BirdBase Mobile App 1" width="24%">
